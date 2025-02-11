@@ -13,5 +13,5 @@ export default {
       },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],//デザイン適用250117
 };
